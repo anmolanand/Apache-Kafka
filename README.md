@@ -1,2 +1,2 @@
 # Apache-Kafka
-Learning Apache Kafka through Project Development
+Refreshing knowledge on Apache Kafka through Project Development
